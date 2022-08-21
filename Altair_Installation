@@ -1,0 +1,8 @@
+Useful information to properly install some of the Altair Products needed to run all the models of this e-Book. Specifically you will need to install:
+
+• ActivateTM and MotionView/SolveTM for calculations and visualizations
+• HyperViewTM for 3D visualizations (post-processors).
+• RTV SimulatorTM for running 3D animations with FMI exported models of Activate (co-processing).
+
+REMARK: If you are a student, you can request a student licence via this link: http://altairuniversity.com/free-altair-student-edition/. 
+Then you may follow this video for the guidance and skip the rest of the installation section until the Visual Studio part.
